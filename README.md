@@ -2,7 +2,7 @@
 
 Presenters: Donna Gavin
 
-Readme url: https://github.com/imalao/ghc2019_workshop/blob/master/README.md
+Readme url: https://github.com/gavindonna/CareerDay/blob/master/README.md
 
 Based off a presentation by Ivy Malao, Star Washington, Yanning Qu at 
 https://github.com/gavindonna/CareerDay/edit/master/README.md
