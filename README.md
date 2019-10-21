@@ -8,7 +8,7 @@ http://bit.ly/2py2ZWV
 
 
 Based off a presentation by Ivy Malao, Star Washington, Yanning Qu at 
-https://github.com/gavindonna/CareerDay/edit/master/README.md
+https://github.com/imalao/ghc2019_workshop/blob/master/README.md
 
 # Overview
 
