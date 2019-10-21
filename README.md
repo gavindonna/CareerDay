@@ -2,9 +2,7 @@
 
 Presenters: Donna Gavin
 
-Readme url: https://github.com/gavindonna/CareerDay/blob/master/README.md
-
-http://bit.ly/2py2ZWV
+Readme url: http://bit.ly/2py2ZWV
 
 
 Based off a presentation by Ivy Malao, Star Washington, Yanning Qu at 
