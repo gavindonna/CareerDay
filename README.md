@@ -3,6 +3,8 @@
 Presenters: Donna Gavin
 
 Readme url: https://github.com/gavindonna/CareerDay/blob/master/README.md
+http://bit.ly/2py2ZWV
+
 
 Based off a presentation by Ivy Malao, Star Washington, Yanning Qu at 
 https://github.com/gavindonna/CareerDay/edit/master/README.md
